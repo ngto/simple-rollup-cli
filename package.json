@@ -1,10 +1,10 @@
 {
-  "name": "module",
+  "name": "module-name",
   "version": "1.0.0",
   "description": "marketing-promotions sdk",
-  "main": "dist/module.cjs.js",
-  "module": "dist/module.esm.js",
-  "browser": "dist/module.umd.js",
+  "main": "dist/module-name.cjs.js",
+  "module": "dist/module-name.esm.js",
+  "browser": "dist/module-name.umd.js",
   "files": [
     "dist"
   ],

@@ -1,4 +1,4 @@
-##  marketing-promotions
+##  module-name
 
 ###  本地调试
 
@@ -10,10 +10,10 @@
 - 2、需要使用包的项目里面添加
 
   ```
-    npm link spark-marketing-promotions
+    npm link module-name
   ```
 - 3、需要使用包的项目里面删除
 
   ```
-    npm unlink spark-marketing-promotions
+    npm unlink module-name
   ```
